@@ -1,0 +1,25 @@
+# Week 4
+
+## Final Penetration Testing Report
+
+This folder contains the final report for the Ethical Hacking Internship.
+
+### Contents
+- Executive Summary
+- Scope & Methodology
+- Attack Path Documentation
+- Technical Findings
+- Risk Assessment
+- Remediation Recommendations
+- Evidence & Screenshots
+- Conclusion
+
+### Tools Used
+- Kali Linux
+- Nmap
+- Metasploit Framework
+- Nessus Essentials
+- LinEnum / LinPEAS
+- Netcat
+- TigerVNC
+- Metasploitable 2
